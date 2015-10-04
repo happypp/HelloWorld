@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println("Hello World!测试11111111111");
         add(12,13);
+        add(12,13);
     }
 
 
